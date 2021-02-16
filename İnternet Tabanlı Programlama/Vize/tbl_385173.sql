@@ -1,0 +1,1 @@
+CREATE TABLE `itp_vt`.`tbl_385173` ( `ID` INT NOT NULL AUTO_INCREMENT , `modaci_adi` VARCHAR(50) NOT NULL , `marka_adi` VARCHAR(50) NOT NULL , `son_defile` VARCHAR(50) NOT NULL , `alisveris` VARCHAR(50) NOT NULL , PRIMARY KEY (`ID`)) ENGINE = InnoDB;
